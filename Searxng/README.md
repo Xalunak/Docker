@@ -15,7 +15,7 @@ Caddy-File bei Bedarf editieren, genügt für FirstRun
 Docker-Compose - File kopieren nach: $HOME/searxng  
 Dann Compose-File bearbeiten:  
 Line 14: IP-Adresse von Docker-Host  
-Line 15: Deine Geschäftsadresse (EMail), oder vom WIndoof typen  
+Line 15: Deine Geschäftsadresse (EMail)
 Line 47: IP-Adresse von Docker-Host (siehe Wert für Line 14)  
 
 ### Docker Network
